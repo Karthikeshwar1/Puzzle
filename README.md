@@ -1,7 +1,8 @@
-# todo
+# Puzzle
 
 ```
 Clue:
 
-On a tree, there lies an eccentric branch
+Want a cookie?
+Go read a ____
 ```
