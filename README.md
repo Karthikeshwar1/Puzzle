@@ -1,5 +1,7 @@
 # todo
 
+**Note:** Keys are unrelated to the clue
+
 ```
 Clue:
 
