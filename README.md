@@ -2,6 +2,12 @@
 
 <br>
 
+Solve each clue and collect the keys to completely solve the game!
+
+**Note:** Keys are unrelated to the clue
+
+<br>
+
 ```
 Clue:
 
@@ -12,4 +18,3 @@ Key: B
 
 <br>
 
-**Note:** Keys are unrelated to the clue
