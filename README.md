@@ -1,4 +1,4 @@
-# GitHub Puzzle
+# A game, a puzzle
 
 <br>
 
